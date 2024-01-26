@@ -3,7 +3,6 @@ Designed and implemented RustOS, a cutting-edge operating system that demonstrat
 
 
 # Key Achievements:
-
 - Rust Language Mastery: Leveraged Rust's ownership model, lifetimes, and zero-cost abstractions to ensure memory safety without compromising on performance.
 - Kernel Development: Engineered the core kernel components, including process scheduling, memory management, and hardware abstraction layer, fostering a foundation for scalable and efficient system operations.
 - Concurrency and Parallelism: Implemented concurrent programming paradigms to enhance system responsiveness, leveraging Rust's ownership and borrowing system to handle parallel execution seamlessly.
