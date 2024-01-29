@@ -9,7 +9,7 @@ pub extern "C" fn _start() -> ! {
     // Initialize the kernel and start the main loop
     kernel_main();
     
-    // This function should never return, hence the '!' (never) type
+    //This function should never return, hence the '!' (never) type
     loop {}
 }
 
