@@ -3,7 +3,7 @@
 
 use core::panic::PanicInfo;
 
-// Entry point for the RustOS kernel
+//Entry point for the RustOS kernel
 #[no_mangle]
 pub extern "C" fn _start() -> ! {
     // Initialize the kernel and start the main loop
