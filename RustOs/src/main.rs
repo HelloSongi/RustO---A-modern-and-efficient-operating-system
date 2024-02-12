@@ -1,6 +1,5 @@
 #![no_std]
 #![no_main]
-
 use core::panic::PanicInfo;
 
 //Entry point for the RustOS kernel
