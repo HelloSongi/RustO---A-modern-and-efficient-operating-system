@@ -12,7 +12,7 @@ pub extern "C" fn _start() -> ! {
     loop {}
 }
 
-// Panic handler for the kernel
+// Panic handler for the kernel part
 #[panic_handler]
 fn panic(_info: &PanicInfo) -> ! {
     // In a real project, you would handle panics gracefully
